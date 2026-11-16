@@ -1,0 +1,16 @@
+C:\Users\vacla\source\repos\Ročníková práce\bin\Debug\net9.0-windows\Ročníková práce.exe
+C:\Users\vacla\source\repos\Ročníková práce\bin\Debug\net9.0-windows\Ročníková práce.deps.json
+C:\Users\vacla\source\repos\Ročníková práce\bin\Debug\net9.0-windows\Ročníková práce.runtimeconfig.json
+C:\Users\vacla\source\repos\Ročníková práce\bin\Debug\net9.0-windows\Ročníková práce.dll
+C:\Users\vacla\source\repos\Ročníková práce\bin\Debug\net9.0-windows\Ročníková práce.pdb
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková_práce.Form1.resources
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.csproj.GenerateResource.cache
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.AssemblyInfoInputs.cache
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.AssemblyInfo.cs
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.csproj.CoreCompileInputs.cache
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.dll
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\refint\Ročníková práce.dll
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.pdb
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\Ročníková práce.genruntimeconfig.cache
+C:\Users\vacla\source\repos\Ročníková práce\obj\Debug\net9.0-windows\ref\Ročníková práce.dll
