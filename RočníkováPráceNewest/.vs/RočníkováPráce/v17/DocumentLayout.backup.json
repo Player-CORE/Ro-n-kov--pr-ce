@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|c:\\users\\vacla\\source\\repos\\ro\u010Dn\u00EDkov\u00E1pr\u00E1ce\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|solutionrelative:oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|c:\\users\\vacla\\source\\repos\\ro\u010Dn\u00EDkov\u00E1pr\u00E1ce\\envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|solutionrelative:envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|c:\\users\\vacla\\source\\repos\\ro\u010Dn\u00EDkov\u00E1pr\u00E1ce\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|c:\\users\\vacla\\source\\repos\\ro\u010Dn\u00EDkov\u00E1pr\u00E1ce\\synthwaveprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A687ADA-92E9-44CB-975A-524D2BD5C0D9}|Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce.csproj|solutionrelative:synthwaveprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAIAwwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T10:48:42.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SynthWaveProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\SynthWaveProvider.cs",
+              "RelativeDocumentMoniker": "SynthWaveProvider.cs",
+              "ToolTip": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\SynthWaveProvider.cs",
+              "RelativeToolTip": "SynthWaveProvider.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T20:52:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Oscillator.cs",
+              "DocumentMoniker": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Oscillator.cs",
+              "RelativeDocumentMoniker": "Oscillator.cs",
+              "ToolTip": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Oscillator.cs",
+              "RelativeToolTip": "Oscillator.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T11:07:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Envelope.cs",
+              "DocumentMoniker": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Envelope.cs",
+              "RelativeDocumentMoniker": "Envelope.cs",
+              "ToolTip": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Envelope.cs",
+              "RelativeToolTip": "Envelope.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T17:35:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vacla\\source\\repos\\Ro\u010Dn\u00EDkov\u00E1Pr\u00E1ce\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T10:45:45.104Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
